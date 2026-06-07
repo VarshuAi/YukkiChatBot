@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Powerful Telegram Chat Bot written in Pyrogram. Useful for Feedbacks , Anonymous Identity, Support Groups. Works Similarly like Livegram Bot
+  name: YukkiChatBot version: 1.0 type: Repository author: VarshuAi description: >   Powerful Telegram Chat Bot written in Pyrogram. Useful for Feedbacks , Anonymous Identity, Support Groups. Works Similarly like Livegram Bot primary_tech: Python
 primary_tech: Python
 ```
 
